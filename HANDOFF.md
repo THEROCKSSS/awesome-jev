@@ -10,7 +10,7 @@
 
 ## Current state
 
-Implementation and local verification are complete on the feature branch, pending commit and PR. The catalog started at 1,188 entries; a real updater run discovered 177 candidates and refreshed 195 entries. Two confirmed unrelated results were removed, leaving 1,363 entries, including 175 newly added this session. Pages deploys after a successful updater workflow via `workflow_run`, with scheduled fallback.
+Implementation and local verification are complete on feature branch `feat/scroll-catalog-readmes`. [PR #1](https://github.com/THEROCKSSS/awesome-jev/pull/1) is open and its `Verify site / build` check passed on the implementation commit `d203358`. The catalog started at 1,188 entries; a real updater run discovered 177 candidates and refreshed 195 entries. Two confirmed unrelated results were removed, leaving 1,363 entries, including 175 newly added this session. Pages deploys after a successful updater workflow via `workflow_run`, with scheduled fallback.
 
 ## Tasks
 
@@ -20,8 +20,8 @@ Implementation and local verification are complete on the feature branch, pendin
 - [x] Strengthen daily discovery and build/deploy workflows.
 - [x] Add a shareable Discord message to the repo.
 - [x] Run build, behavioral tests, browser check, and independent Standards/Spec review.
-- [ ] Finish pre-commit security verification and record evidence.
-- [ ] Commit, push branch, open PR, and record CI outcome.
+- [x] Finish pre-commit security verification and record evidence in the Codex workspace `outputs/verification.md`.
+- [x] Commit, push branch, open PR, and record CI outcome. PR #1 is open; CI passed.
 
 ## What was done this session
 
@@ -33,7 +33,7 @@ Implementation and local verification are complete on the feature branch, pendin
 
 ## What's not done
 
-Pre-commit checks, branch push, PR creation, and CI observation remain. The live Pages URL could not be inspected through the in-app browser because permission was declined; local built pages were exercised in Chromium.
+Owen's review and merge remain. After merge, check the first successful daily catalog workflow and the following Pages deployment. The live Pages URL could not be inspected through the in-app browser because permission was declined; local built pages were exercised in Chromium.
 
 ## How to resume
 
