@@ -22,9 +22,13 @@ def main():
     top = entries[0]['added']
     lines = []
     fresh = [e for e in entries if e['added'] >= top]
-    if fresh:
+    # seed day: every entry shares one date — don't dump the whole catalog as "new"
+    if fresh and len(fresh) < len(entries):
+        shown = fresh[:50]
         lines.append(f"### 🆕 New today ({top})\n")
-        lines += [f"- [{e['name']}]({e['url']}) — {e['desc']} _(★{e['stars']})_" for e in fresh]
+        lines += [f"- [{e['name']}]({e['url']}) — {e['desc']} _(★{e['stars']})_" for e in shown]
+        if len(fresh) > len(shown):
+            lines.append(f"- *{len(fresh)-len(shown)} more on the [full catalog](https://therocksss.github.io/awesome-jev/)*")
         lines.append("")
     for cid, label in CATS:
         rs = [e for e in entries if e['category'] == cid]

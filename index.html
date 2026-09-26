@@ -143,7 +143,10 @@ function render() {
   const today = DATA.length ? DATA[0].added : ''; // dataset sorted by added desc
   const fresh = rows.filter(e => e.added >= today);
   const SHOWN = fresh.slice(0, 24);
-  newday.innerHTML = fresh.length ? `<div class="newday"><h2>🆕 Added ${today}${fresh.length > SHOWN.length ? ` <span style="font-weight:normal;color:var(--dim)">(+${fresh.length - SHOWN.length} more below)</span>` : ''}</h2>${grid(SHOWN)}</div>` : '';
+  // seed day: every entry shares one date — don't claim everything is "new"
+  const banner = (fresh.length && fresh.length < DATA.length)
+    ? `<div class="newday"><h2>🆕 Added ${today}${fresh.length > SHOWN.length ? ` <span style="font-weight:normal;color:var(--dim)">(+${fresh.length - SHOWN.length} more below)</span>` : ''}</h2>${grid(SHOWN)}</div>` : '';
+  newday.innerHTML = banner;
   count.textContent = `${rows.length} project${rows.length===1?'':'s'} shown of ${DATA.length}`;
   list.innerHTML = '';
   if (so === 'stars') {
