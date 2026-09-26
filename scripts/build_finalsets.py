@@ -1,16 +1,22 @@
 # Build core candidate set: admit a repo only if its OWN metadata (name/description/
-# topics/homepage) is Jev-relevant. List cross-counts alone are NOT sufficient —
-# big awesome lists link generic repos inside project sections.
+# homepage, or official owner) is Jev-relevant. List cross-counts alone are NOT
+# sufficient — big awesome lists link generic repos inside project sections.
+# GitHub topics are self-applied and spammable (unrelated repos carry the `jev`
+# topic), so a topic match only counts as evidence when curators independently
+# cross-referenced the repo in >=2 lists (grandfather rule for the seed build).
 import json, os, re
 
 base = os.environ['LOCALAPPDATA'] + '/Temp'
 gq = json.load(open(base + '/gq.json', encoding='utf-8'))
 topics = json.load(open(base + '/topics.json', encoding='utf-8'))
+sig = json.load(open(base + '/signals.json', encoding='utf-8'))
 OFFICIAL = {'typesafe-ai', 'type-safe-ai', 'jev-chat', 'omnijev'}
 
 # 'jev' is a coined term — substring anywhere (pocketjev, OmniJev, djev-run) is strong
 JEV = re.compile('jev', re.I)
-SYS1 = re.compile(r'system[ -]?one\b|system[ -]?1\b', re.I)
+# case-sensitive proper token: lowercase "the system one" is plain English, not the
+# TypeSafe product name (see update_list.py note).
+SYS1 = re.compile(r'System[ -]?One\b|System 1\b')
 TS_URL = re.compile(r'typesafe\.ai', re.I)
 TS_COMPANY = re.compile(r'typesafe', re.I)
 # require the company's own name as a proper token (case-sensitive), not just
@@ -30,9 +36,9 @@ def relevant(fn, meta):
         return False
     if owner.lower() in OFFICIAL:
         return True
-    if JEV.search(repo) or JEV.search(desc) or JEV.search(tops):
+    if JEV.search(repo) or JEV.search(desc):
         return True
-    if SYS1.search(desc) or SYS1.search(tops):
+    if SYS1.search(desc):
         return True
     if TS_URL.search(desc) or TS_URL.search(meta.get('homepageUrl') or ''):
         return True
@@ -41,6 +47,11 @@ def relevant(fn, meta):
     # a bare topic:typesafe is NOT evidence — the TS ecosystem uses that topic
     # heavily. Only the company signals above qualify.
     if TS_COMPANY.search(desc) and COMPANY_CTX.search(desc):
+        return True
+    # topic-only match: keep only if curators cross-referenced the repo in >=2
+    # independent lists (grandfather rule; topic alone is spammable). GitHub
+    # topics are always lowercase, so match lowercase here.
+    if (JEV.search(tops) or re.search(r'system[- ]?(one|1)\b', tops)) and sig['strong'].get(fn, 0) >= 2:
         return True
     return False
 

@@ -68,28 +68,32 @@ def classify(owner, repo, desc, topics):
 # same rules as scripts/build_finalsets.py: 'jev' substring anywhere (coined term),
 # System One, or the company (typesafe.ai). Generic "typesafe <TS-lib word>" excluded.
 JEV_RX = re.compile(r'jev', re.I)
-SYS1_RX = re.compile(r'system[ -]?one\b', re.I)
+# case-sensitive proper token: lowercase "the system one" is plain English ("replaces
+# the system one"), not the TypeSafe product name.
+SYS1_RX = re.compile(r'System[ -]?One\b|System 1\b')
 TS_URL_RX = re.compile(r'typesafe\.ai', re.I)
 NEG_RX = re.compile(r"typesafe[’']?s?\s*[ -]?(utils?\b|utilit|librar|type\b|types\b|enum|pattern|config|forms?\b|ipc|routing|router|rail|i18n|url\b|stack|defini|action|generat|prop|endpoint|graphql|sql|http|rest|fetch|routes?\b|doobie|gem\b|helper)", re.I)
 TS_TOPIC_RX = re.compile(r'typesafe', re.I)
 
 def relevant(it):
+    # GitHub topics are self-applied and spammable (unrelated repos carry the
+    # `jev` topic, e.g. docky, anything_about_game) — admission evidence is
+    # name/description text, official owners, or a typesafe.ai homepage.
+    # Topics are never admission evidence in the daily path.
     text = ' '.join(filter(None, [it.get('name'), it.get('description')]))
-    tops = ' '.join(it.get('topics') or [])
+    home = it.get('homepage') or ''
     if (it.get('owner') or {}).get('login', '').lower() in ('typesafe-ai', 'type-safe-ai', 'jev-chat', 'omnijev'):
         return True
     if it.get('fork') and not JEV_RX.search(text):
         return False
-    if JEV_RX.search(text) or JEV_RX.search(tops):
+    if JEV_RX.search(text):
         return True
-    if SYS1_RX.search(text) or SYS1_RX.search(tops):
+    if SYS1_RX.search(text):
         return True
-    if TS_URL_RX.search(text) or TS_URL_RX.search(it.get('homepage') or ''):
+    if TS_URL_RX.search(text) or TS_URL_RX.search(home):
         return True
     if NEG_RX.search(text):
         return False
-    # company proper-token required in the description (search_items has no
-    # separate homepage/topic guarantee beyond the queries above)
     if re.search(r'(TypeSafe|[Tt]ype[Ss]afe AI|[Tt]ypesafe\.ai|[Ss]ystem One)', text):
         return True
     return False

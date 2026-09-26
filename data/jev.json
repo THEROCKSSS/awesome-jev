@@ -6746,26 +6746,6 @@
   "category": "openmodels"
  },
  {
-  "name": "parallelconstraintdecoding",
-  "owner": "stephanj",
-  "url": "https://github.com/stephanj/parallelConstraintDecoding",
-  "desc": "Parallel Constraint Decoding using Java and Llama.cpp compared to Python \ud83d\udd25",
-  "stars": 14,
-  "lang": "Java",
-  "added": "2026-09-25",
-  "pushedAt": "2026-09-17",
-  "cross": 1,
-  "topics": [
-   "apple",
-   "java",
-   "llamacpp",
-   "macos",
-   "python",
-   "jev"
-  ],
-  "category": "openmodels"
- },
- {
   "name": "snapjudge",
   "owner": "micha0827",
   "url": "https://github.com/Micha0827/snapjudge",
@@ -6993,26 +6973,6 @@
    "rust-lang"
   ],
   "category": "devtools"
- },
- {
-  "name": "typesafe-sdk-go",
-  "owner": "atharvamhaske",
-  "url": "https://github.com/atharvamhaske/typesafe-sdk-go",
-  "desc": "unofficial go sdk for typesafe ai. not affiliated with or endorsed by typesafe ai. a side project built to fill the missing go sdk gap, for the community to use.",
-  "stars": 13,
-  "lang": "Go",
-  "added": "2026-09-25",
-  "pushedAt": "2026-09-21",
-  "cross": 1,
-  "topics": [
-   "go",
-   "go-sdk",
-   "golang",
-   "typesafe",
-   "typesafe-ai",
-   "typesafe-jev"
-  ],
-  "category": "official"
  },
  {
   "name": "omnijev",
