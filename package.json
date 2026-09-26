@@ -1,0 +1,1 @@
+{"private":true,"description":"Build dependency for safe README rendering","dependencies":{"dompurify":"3.4.16"}}

@@ -1,7 +1,11 @@
 name: Deploy page
 on:
+  workflow_run:
+    workflows: ['Daily catalog update']
+    types: [completed]
+    branches: [main]
   schedule:
-    - cron: '47 6 * * *'   # daily 06:47 UTC, after the 06:17 catalog update
+    - cron: '47 6 * * *'   # fallback daily rebuild; workflow_run follows successful updates
   push: { branches: [main] }
   workflow_dispatch: {}
 permissions:
@@ -10,11 +14,18 @@ permissions:
   id-token: write
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     environment: { name: github-pages, url: https://therocksss.github.io/awesome-jev/ }
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '22', cache: 'npm' }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: npm ci --ignore-scripts
+      - run: python scripts/build_site.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
-        with: { path: '.' }
+        with: { path: 'dist' }
       - uses: actions/deploy-pages@v4

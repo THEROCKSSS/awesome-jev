@@ -10,10 +10,12 @@ hand-edits to it are overwritten. To get a project in, make sure it is
 
 1. The repo must be public on GitHub and use, implement, or integrate
    Jev / TypeSafe System One (or be official TypeSafe tooling).
-2. Its GitHub **description, topics, or homepage** should mention `jev`,
-   `system one`, or `typesafe.ai` — the daily scraper reads those fields, not
-   the README body. Add a `jev` topic to your repo if nothing else applies.
-3. ≥5 stars, or linked from a community list.
+2. Put the Jev / TypeSafe System One connection in the GitHub repo **name,
+   description, or homepage**. The daily scraper does not search README bodies.
+   A `jev` topic helps discovery, but a topic alone does not establish relevance.
+3. New repositories can have zero stars. The daily discovery checks multiple
+   GitHub search orders, including recently created repositories, and requires
+   a clear connection in the repo name, description, official owner, or homepage.
 
 Open an issue titled `Add: owner/repo` with a one-line reason. Maintenance PRs
 that edit `data/jev.json` directly are only merged if they fix an admission
@@ -29,13 +31,13 @@ updated, not individual rows.
 
 ## Removing / fixing entries
 
-Projects that get archived, renamed, or turn out to be unrelated get removed on
-the next scrape or by issue report. A repo renamed under the same owner keeps
-its `added` date — renames don't reset "new".
+Report archived, renamed, or unrelated entries for review. The daily updater
+discovers and refreshes projects; it does not automatically remove existing
+entries. A corrected entry keeps its original `added` date.
 
 ## Ground rules
 
-- No self-promotion spam: the ≥5-stars-or-2-lists bar exists so the list can't
-  be filled with fresh zero-star repos.
+- No self-promotion spam: entries need a verifiable Jev / TypeSafe System One
+  connection. Fresh zero-star repos can qualify when the connection is clear.
 - Entries show GitHub's own description; we do not rewrite or endorse them.
 - This catalog is community-run and **not affiliated with TypeSafe**.
