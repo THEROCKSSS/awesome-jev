@@ -21,4 +21,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: daily catalog update"
-          file_pattern: data/jev.json README.md
+          file_pattern: data/jev.json data/meta.json README.md
