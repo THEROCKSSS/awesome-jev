@@ -30,50 +30,56 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 
 <!-- PROJECTS:BEGIN -->
 
-### 🆕 New today (2026-11-15)
+### 🆕 New today (2026-11-16)
 
-- [slop-block](https://github.com/alexzomai/slop-block) — Chrome extension that filters your YouTube feed by plain-language smart tags. An AI decision model (TypeSafe Jev, your own key) decides what to show. _(★3)_
-- [omp-jevify](https://github.com/ericjuta/omp-jevify) — Oh My Pi skill plugin: rubric-first bulk classification with judge_batch (Jev) _(★2)_
-- [jev-ants](https://github.com/scalefreegan/jev-ants) — Ants that form your picture, one Jev decision at a time _(★1)_
-- [Attest](https://github.com/NIRVANA-APOC/Attest) — Attested agent orchestration: real Claude Code and Codex roles in tmux worktrees, Jev decision gates, and a tamper-evident audit ledger. _(★1)_
-- [erp-classifier](https://github.com/ehtb/erp-classifier) — Local, domain-specific "Jev"-like classifier _(★1)_
-- [LEO](https://github.com/lewisyang3/LEO) — A cost-tiered AI pipeline pairing System One model Jev and Claude Haiku to eliminate vendor billing leaks. Built for the Berkeley Business Society x Ramp Hackathon. _(★1)_
-- [Jevgenyp.github.io](https://github.com/Jevgenyp/Jevgenyp.github.io) —  _(★0)_
-- [Jevggenyp.github.io](https://github.com/Jevgenyp/Jevggenyp.github.io) —  _(★0)_
-- [SystemOne-Model-Router](https://github.com/Abjcodes/SystemOne-Model-Router) — Jev based model router for codex _(★0)_
-- [jev-vs-llm-tos-bench](https://github.com/WWStoryMode/jev-vs-llm-tos-bench) — Benchmark: Jev + LLM vs LLM-only for reviewing Terms of Service (UNFAIR-ToS) _(★0)_
-- [japanese-jev-release](https://github.com/bigrh0917/japanese-jev-release) —  _(★0)_
-- [jev-argos](https://github.com/jornJp0201/jev-argos) —  _(★0)_
-- [FeedLens](https://github.com/IuryCavalcante/FeedLens) — FeedLens is a Chrome extension that tracks the posts you see and expand in your social media feed. Describe your interests in your own words, and FeedLens uses AI to classify posts as In Focus or Off Topic through TypeSafe’s Jev API. _(★0)_
-- [system-one-multilingual-sentiment](https://github.com/uran-lajci/system-one-multilingual-sentiment) — Benchmark of five System One (decision) models: Jev, Clef, Clef-flash, Laya and Laya-multilingual. Three-class sentiment analysis across 36 high-, medium- and low-resource languages, zero-shot and few-shot, compared with five LLMs and task- _(★0)_
-- [MCP_Typesafe_JEV](https://github.com/SykkoAtHome/MCP_Typesafe_JEV) — Domain-agnostic MCP server for TypeSafe Jev (System One) evaluation engine across Claude Code, Codex, Gemini CLI, and Antigravity _(★0)_
-- [skipper](https://github.com/fadil013/skipper) — Skips YouTube sponsors on videos nobody has labeled yet (fork of valentynkit/jev-skip) _(★0)_
-- [decision-model](https://github.com/TokenService/decision-model) — AI 决策模型命令行工具与 Agent 技能：意图识别、内容风控、风险分级、消息分诊、路由判断。返回 0-1 概率而不是文案，支持阈值、预设与 fail-open，适配 Jev / TypeSafe System One。 _(★0)_
-- [Ripple](https://github.com/anjfgkfkrh/Ripple) — 주식 관련 뉴스를 자동으로 모으고 Jev(TypeSafe AI)로 관련도와 호재·악재를 골라 웹으로 보여 주는 개인용 앱 _(★0)_
-- [jevdirectory.org](https://github.com/jevdirectory/jevdirectory.org) —  _(★0)_
-- [open-jev](https://github.com/cheoljoo/open-jev) — REST APIs (FastAPI) for the openjev and laya typed-decision models _(★0)_
-- [vscode-jev-linter](https://github.com/camegone/vscode-jev-linter) — An extension automatically detect flaw like security risk, powerd by Jev at openrouter _(★0)_
-- [Jarvis-GNANI](https://github.com/prabindersinghh/Jarvis-GNANI) — JARVIS · GNANI Edition — voice-controlled Windows agent: Claude brain, local ears hear, verified UIA/JEV/OCR hands. _(★0)_
-- [jev-router](https://github.com/availableservices/jev-router) — Route to the cheapest model in claude code for your task using jev-router _(★0)_
-- [jev-coffee-demo](https://github.com/adamsonwalter/jev-coffee-demo) — Live voice coffee ordering demo with Jev for real-time UI updates and stock risk flags. iPhone web app. _(★0)_
-- [meebo](https://github.com/zabrodsk/meebo) — A referee for meetings. A box on the table that keeps a live meeting score and speaks up when the room leaves the agenda. Atech ESP32-S3 + ElevenLabs + TypeSafe Jev + Gemini. Junction 2026. _(★0)_
-- [BanHammerBot](https://github.com/crzidea/BanHammerBot) — Telegram spam moderation bot with Jev multimodal decisions and per-group management _(★0)_
-- [question_router](https://github.com/suvrazastrovision/question_router) — A small practice demo on Jev classification and deterministic Python routing in multiagent system. _(★0)_
-- [NexaStore-AI](https://github.com/kartavya99/NexaStore-AI) — Adding AI capabilities to an existing, production-ready .NET 10 and React e-commerce app. Adding Ollama, RAG, tool calling, MCP, Jev, multi-agent orchestration, AG-UI and Azure AI Foundry. From local development with Docker to scalable prod _(★0)_
-- [jev-demo](https://github.com/KemalG-u/jev-demo) — Public source selection for a fixed-rule demo; no real model; application code is not open-source licensed. _(★0)_
-- [JevDotNet](https://github.com/HillPhelmuth/JevDotNet) — c# SDK for "System One" decisions models like Jev _(★0)_
-- [JevBan](https://github.com/FMXExpress/JevBan) — Jev scans your web logs for URL probing and bans them. _(★0)_
-- [JevPlayground](https://github.com/lucaslenglet/JevPlayground) — A local playground for a Jev model (a "System One" model: it does not generate prose, it returns a typed decision with its probabilities). _(★0)_
-- [lets-make-jev](https://github.com/MrGKanev/lets-make-jev) — Jev tests a simple idea: when an LLM only needs to choose a category, score the possible first answer tokens instead of generating a text response. The client maps single-token labels (A, B, …) back to application categories and routes unce _(★0)_
-- [killercoda](https://github.com/dbehelitate/killercoda) —  agentgateway LLM Guardrails :: JEV  security guardrails :: KServe :: Killercoda. _(★0)_
-- [jev-chromium-use](https://github.com/avi720/jev-chromium-use) — Browser automation where a small decision model (TypeSafe Jev), not a frontier LLM, picks every step. Runs in your signed-in Chromium browser (Edge or Chrome), in a background tab; works on Hebrew sites. _(★0)_
-- [codehygiene](https://github.com/brianbell-x/codehygiene) — A 33 KB, weight-space programmed System One model for code readability and hygiene. _(★0)_
-- [Neon-Number-Games](https://github.com/rrkpublisher56955/Neon-Number-Games) — ✨ Neon Number Games — Quantum Math & Logic Arcade built with Apple Design System, Fluid Motion, TypeSafe System One AI routing & strict YouTube Playables compliance. _(★0)_
-- [Neon-Unit-Converter](https://github.com/rrkpublisher56955/Neon-Unit-Converter) — ✨ Neon Unit Converter & Quantum Math Arcade — Crafted with Apple Fluid Motion, Frosted Glassmorphism, TypeSafe System One AI routing & YouTube Playables compliance. _(★0)_
+- [jev-humanize-writing](https://github.com/win4r/jev-humanize-writing) — Jev 辅助去 AI 味写作：保留事实、归因与作者语气 | Natural prose editing with Jev-assisted fidelity review _(★5)_
+- [medical-jev-train](https://github.com/JuneYaooo/medical-jev-train) —  _(★3)_
+- [jev-spamassassin](https://github.com/jovaneyck/jev-spamassassin) —  _(★3)_
+- [Yak](https://github.com/gowthambalachandhiran/Yak) — This is open source version of Jev _(★2)_
+- [pi-auto](https://github.com/ekil1100/pi-auto) — Automatically select thinking effort for each task useing Jev _(★2)_
+- [jevplays](https://github.com/tylervick/jevplays) —  _(★1)_
+- [jev-test](https://github.com/amirjavani/jev-test) —  _(★1)_
+- [judge_rails](https://github.com/just-the-v/judge_rails) — Semantic judgments from TypeSafe Jev as self-maintaining ActiveRecord attributes: typed Noul, Choice and Score answers stored as indexable columns, with SQL scopes. _(★1)_
+- [jev-check](https://github.com/emoubarak/jev-check) — AI browser agent testing for staging apps: sign in as a real account state (free, paid, lapsed, team), follow a plain-English goal, verify against the database. Agent skill for Claude Code, Codex. _(★1)_
+- [SEO-magus](https://github.com/lucasrafaldini/SEO-magus) — High-speed SEO analysis and autonomous internal linking suite powered by TypeSafe Jev (System 1) and Auxiliary Frontier AI (System 2). _(★1)_
+- [LNSAT](https://github.com/hypler-dev/LNSAT) — Building a CPU-first System One engine for evidence-bound review, with a Gateway for policy, human approval, bounded execution, and durable receipts. Pre-release source. _(★1)_
+- [jev-build-router](https://github.com/Cheng-1999/jev-build-router) —  _(★0)_
+- [n8n-enterprise-demand-digest](https://github.com/quequegerones/n8n-enterprise-demand-digest) — n8n workflow: where is enterprise demand concentrating in n8n's feature requests? Classified with Jev, ranked in code, weekly report. _(★0)_
+- [jev-tab-organizer](https://github.com/StoneHub/jev-tab-organizer) — Private, offline Chrome extension that turns open tabs into reviewable groups. _(★0)_
+- [dify-review](https://github.com/asukaminato0721/dify-review) — Learn review rules from PR history and apply them with Jev _(★0)_
+- [jev_dsl](https://github.com/boxxxie/jev_dsl) — Compile-time contract DSL, two-tier content-addressed cache, and execution runner for TypeSafe Jev (SystemOneSDK). _(★0)_
+- [jev-utilities](https://github.com/jadeforrest/jev-utilities) — Small helpers for categorizing data with TypeSafe's Jev decision model _(★0)_
+- [ProjetoJeves-Database](https://github.com/CaioLincon/ProjetoJeves-Database) — Projeto prático de modelagem relacional de banco de dados para um sistema web centralizado de competições escolares (Vespasiano). O objetivo é substituir o controle manual em planilhas e formulários avulsos por um fluxo integrado de cadastr _(★0)_
+- [yuru-come](https://github.com/hiroyannnn/yuru-come) — Loose comment viewer: bundles duplicate live-chat reactions and surfaces the comments a streamer should not miss, triaged by TypeSafe Jev _(★0)_
+- [JEVAcademyWithLabs](https://github.com/writersrinivasan/JEVAcademyWithLabs) —  _(★0)_
+- [jev-switch](https://github.com/putraridho/jev-switch) — Jev-gated Claude router: Sonnet by default, Opus for hard and security work _(★0)_
+- [dt-browser](https://github.com/ItMeDiaTech/dt-browser) — Chrome extension + local MCP bridge that lets AI agents drive your real, signed-in Chrome; includes jev-harness, a token-efficient browser agent _(★0)_
+- [chatbot-jev-gemini](https://github.com/jfmdev/chatbot-jev-gemini) — A simple AI-first support bot built with TypeSafe's Jev and Google's Gemini API _(★0)_
+- [reproducibility-bouncer](https://github.com/d-callan/reproducibility-bouncer) — leverage an LLM + JEV + Orbit to systematically evaluate and score a publication's ability to be reproduced _(★0)_
+- [Jevar_Portfolio-website2](https://github.com/javakinsrapada-web/Jevar_Portfolio-website2) — Jevar_Portfolio-website2 _(★0)_
+- [paseo-jevgrep-addon](https://github.com/fbettag/paseo-jevgrep-addon) — Paseo plugin: give every agent a jevgrep tool that finds source by asking what it does, ranked by TypeSafe Jev. _(★0)_
+- [Jevar-Portfolio-website](https://github.com/javakinsrapada-web/Jevar-Portfolio-website) — Jevar Portfolio website _(★0)_
+- [jev-atlas](https://github.com/O8pen/jev-atlas) — Jev Atlas: a wiki-style atlas of everything built with Jev and other decision models _(★0)_
+- [bezel](https://github.com/Hedronite/bezel) — Bezel is a harness agnostic supplemental overlay. Jev integration, bend2 planned. current status prototype, will be written in Rust after PoC _(★0)_
+- [mail-triage](https://github.com/k3shav/mail-triage) — Gmail-first email classification with Jev, OpenAI Decisions, and local models. Run on your Mac or self-host. _(★0)_
+- [jev-sec-tools](https://github.com/ahmetsengonul/jev-sec-tools) —  _(★0)_
+- [Jev-AutoLaya](https://github.com/DreamBlooms/Jev-AutoLaya) — One-stop automated decision modeling solution, build your own fine-tuned Laya model in under 30 minutes. | 一站式自动化领域决策模型构建方案，在 30 分钟内构建您自己的 Laya 微调模型 _(★0)_
+- [jev-browser-test](https://github.com/Faresabdelghany/jev-browser-test) —  _(★0)_
+- [med_decisions](https://github.com/csv610/med_decisions) — Medical Decisions using JEV types models _(★0)_
+- [JevVTNFS](https://github.com/stormchen-cpu/JevVTNFS) — Vulnerability Triage and Noise Filtering System _(★0)_
+- [open-jev-review](https://github.com/nagyist/open-jev-review) — A staged code-review workflow and local dashboard built with TypeSafe Jev. _(★0)_
+- [Jev_for_RL_minimal_demo](https://github.com/CuteCuteYu/Jev_for_RL_minimal_demo) — Jev for RL Minimal Demo _(★0)_
+- [Jevonbaby](https://github.com/B1Kjuu/Jevonbaby) —  _(★0)_
+- [jev-router-shield](https://github.com/ddzelal/jev-router-shield) — Let Jev pick the Claude model and effort per message in Claude Code, without your company's data leaving your machine _(★0)_
+- [evidence-review-agent](https://github.com/zser99/evidence-review-agent) — 학자금·의료비 지원 증빙 검수 Agent (결정 모델 Jev 기반) — Vue / Spring Boot / FastAPI _(★0)_
+- [Build-AI-Decision-Making-Systems-with-Jev](https://github.com/PacktPublishing/Build-AI-Decision-Making-Systems-with-Jev) —  _(★0)_
+- [feed-filter](https://github.com/ranawaqas-ai/feed-filter) — Chrome extension that blurs YouTube feed cards until Jev checks each video against your goals. Bring your own TypeSafe key. _(★0)_
+- [cashew-genui](https://github.com/alisalemx/cashew-genui) — A made-up bank whose assistant builds each answer from its design system, using Jev and Claude. _(★0)_
+- [Prompt-Router](https://github.com/robinwintertaylor/Prompt-Router) — Sub-120ms smart LLM gateway & real-time optics dashboard using TypeSafe Jev System One. Defeats cache thrashing on coding agents (Goose, Cursor, VS Code) with Break-Even Cache Affinity and 0.60 Confidence-Gated Safety. _(★0)_
 
 ### Official Resources (22)
 
-- [skills](https://github.com/typesafe-ai/skills) — Agent skills for building with TypeSafe's System One API _(★2901, n/a)_
+- [skills](https://github.com/typesafe-ai/skills) — Agent skills for building with TypeSafe's System One API _(★2903, n/a)_
 - [typesafe-sdk-python](https://github.com/typesafe-ai/typesafe-sdk-python) — The official Python library for the TypeSafe API _(★314, Python)_
 - [typesafe-sdk-js](https://github.com/typesafe-ai/typesafe-sdk-js) — The official TypeScript/JavaScript library for the TypeSafe API _(★285, TypeScript)_
 - [daggerverse](https://github.com/typesafe-ai/daggerverse) — Collection of useful Dagger modules _(★36, Python)_
@@ -96,63 +102,63 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [typesafe-sdk-php](https://github.com/valksor/typesafe-sdk-php) — Unofficial PHP SDK for the TypeSafe AI System One API — 1:1 parity with the official JS and Python SDKs. Not affiliated with TypeSafe AI. _(★0, PHP)_
 - [typesafe-sdk](https://github.com/runapi-ai/typesafe-sdk) — RunAPI TypeSafe SDK for Jev structured decision workflows in JavaScript, Python, Ruby, Go, Java, and PHP _(★0, Java)_
 
-### Open & Jev-like Models (904)
+### Open & Jev-like Models (911)
 
-- [laya](https://github.com/NandhaKishorM/laya) — Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request. _(★35557, Python)_
-- [kev](https://github.com/jaredpalmer/kev) — Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own _(★9989, Python)_
+- [laya](https://github.com/NandhaKishorM/laya) — Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request. _(★35594, Python)_
+- [kev](https://github.com/jaredpalmer/kev) — Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own _(★10011, Python)_
 - [laya-mlx](https://github.com/mizorewww/laya-mlx) — Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API. _(★6284, Python)_
-- [semif](https://github.com/TheoLeeCJ/SemIf-OpenJev) — Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. _(★4957, Python)_
-- [CLM](https://github.com/Contrastive-LM/CLM) — Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive learning objective that connects states and actions. _(★3202, Python)_
-- [nanojev](https://github.com/TianyuCodings/NanoJev) — A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline. _(★2595, Python)_
-- [anyjev](https://github.com/nokia-applied-research/AnyJev) — Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating) _(★1610, Python)_
+- [semif](https://github.com/TheoLeeCJ/SemIf-OpenJev) — Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe. _(★4960, Python)_
+- [CLM](https://github.com/Contrastive-LM/CLM) — Contrastive Language Models (CLMs) are a new class of System One model trained with a contrastive learning objective that connects states and actions. _(★3205, Python)_
+- [nanojev](https://github.com/TianyuCodings/NanoJev) — A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline. _(★2598, Python)_
+- [anyjev](https://github.com/nokia-applied-research/AnyJev) — Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating) _(★1614, Python)_
 - [jeff](https://github.com/firelex/jeff) — Millisecond decisions, any domain: a 0.8B open "System 1" model that picks between your options with calibrated probabilities. One base, swappable LoRA adapters, on your own hardware. _(★1601, Python)_
-- [ollaya](https://github.com/ollaya-dev/ollaya) — Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models. _(★1464, Rust)_
-- [laya](https://github.com/receptron/laya) — Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime _(★1077, TypeScript)_
+- [ollaya](https://github.com/ollaya-dev/ollaya) — Run open decision models locally: pull and serve Laya, decider, NLI and GLiClass behind a TypeSafe-compatible API. Ollama for decision models. _(★1467, Rust)_
+- [laya](https://github.com/receptron/laya) — Run Laya, the open-source Jev-compatible System-1 decision model, from Node.js / TypeScript via ONNX Runtime _(★1079, TypeScript)_
 - [decider](https://github.com/Mapika/decider) — A family of System One-style models fine-tuned from Qwen3.5, designed for one-pass typed decisions with calibrated probabilities. _(★1054, Python)_
 - [deepopen](https://github.com/deepopen-com/deepopen) — 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. _(★1014, Python)_
-- [typellm](https://github.com/TypeLLM/TypeLLM) — TypeLLM: LLMs with type-safe generation _(★982, Python)_
-- [jev](https://github.com/feder-cr/jev) — jevos is an open-source alternative to Jev for yes/no decisions that runs on your laptop. _(★965, Python)_
+- [typellm](https://github.com/TypeLLM/TypeLLM) — TypeLLM: LLMs with type-safe generation _(★983, Python)_
+- [jev](https://github.com/feder-cr/jev) — jevos is an open-source alternative to Jev for yes/no decisions that runs on your laptop. _(★967, Python)_
 - [rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) — The open, local take on Jev: typed decisions from an LLM, without generating a single token _(★964, Python)_
 - [vllm-jev](https://github.com/mode-io/vllm-jev) — Native vLLM serving for Jev decision models _(★953, Python)_
 - [von](https://github.com/wfzyx/von) — The open-source System One decision model. Sub-15ms, non-autoregressive, local drop-in alternative to TypeSafe Jev. _(★922, Python)_
-- [Valen](https://github.com/Valen-Team/Valen) — Train a Jev-like multimodal model by yourself. System One Model, now with vision. _(★915, Jupyter Notebook)_
+- [Valen](https://github.com/Valen-Team/Valen) — Train a Jev-like multimodal model by yourself. System One Model, now with vision. _(★917, Jupyter Notebook)_
 - [valen](https://github.com/Liuziyu77/Valen) — Train a Jev-like multimodal model by yourself. System One Model, now with vision. _(★863, Python)_
 - [openjev](https://github.com/razorback16/openjev) — Open, Jev-compatible System One decision server on DiffusionGemma _(★787, Python)_
-- [simple-jev](https://github.com/featherless-ai/simple-jev) — Turn any open model into a classifier/jev endpoint _(★656, Python)_
+- [simple-jev](https://github.com/featherless-ai/simple-jev) — Turn any open model into a classifier/jev endpoint _(★658, Python)_
 - [djev-run](https://github.com/taeold/djev-run) — Serve the experimental DiffusionGemma-Jev diffusion model on Cloud Run GPUs (vLLM, RTX PRO 6000), with demo apps and published benchmarks. _(★589, HTML)_
-- [docjev](https://github.com/jerryjliu/docjev) — A very fast document classifier/splitter using Jev _(★560, Python)_
-- [ldraw-nova](https://github.com/anteloc/ldraw-nova) — Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev _(★554, Python)_
+- [docjev](https://github.com/jerryjliu/docjev) — A very fast document classifier/splitter using Jev _(★561, Python)_
+- [ldraw-nova](https://github.com/anteloc/ldraw-nova) — Agent tooling for generative LEGO models building, built with Astra and Opus 5.5, powered by Jev _(★556, Python)_
+- [Flide](https://github.com/OmniJev/Flide) — 🔥🔥 Accelerating decision inference with exact state forking _(★521, Python)_
 - [tax-doc-classifier](https://github.com/kyotofin/tax-doc-classifier) — Tax document page classifier built on Jev decisions. 100% strict accuracy across 261 IRS forms, ~$0.001 per page. _(★520, TypeScript)_
-- [Flide](https://github.com/OmniJev/Flide) — 🔥🔥 Accelerating decision inference with exact state forking _(★507, Python)_
-- [llm2jev](https://github.com/Yinsongxu/LLM2Jev) — Turn local language models into Jev-style structured decision models. Get results from text and images with prefill alone—no token-by-token decoding required. _(★493, Python)_
+- [llm2jev](https://github.com/Yinsongxu/LLM2Jev) — Turn local language models into Jev-style structured decision models. Get results from text and images with prefill alone—no token-by-token decoding required. _(★491, Python)_
 - [Open-Jev](https://github.com/Zefan-Cai/Open-Jev) —  _(★452, Python)_
-- [jeeves](https://github.com/PostHog/jeeves) — Jeeves – Reasoning improves Jev-like decision models _(★441, Python)_
+- [jeeves](https://github.com/PostHog/jeeves) — Jeeves – Reasoning improves Jev-like decision models _(★442, Python)_
 - [system-one-adapter-python](https://github.com/typesafe-ai/system-one-adapter-python) — Drop-in TypeSafeClient replacement backed by LLM APIs _(★410, Python)_
-- [system-one-connector](https://github.com/itsmostafa/system-one-connector) — System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Typesafe AI's Jev model and Laya _(★361, Go)_
-- [jevbench](https://github.com/fstandhartinger/jevbench) — JevBench v1 - a benchmark for Jev-class typed decision models: smart, cheap, fast, reliable, open. _(★342, Python)_
+- [system-one-connector](https://github.com/itsmostafa/system-one-connector) — System One MCP connector to evaluate anything fast and cheap. Give your AI agent direct access to models like: Typesafe AI's Jev model and Laya _(★363, Go)_
+- [jevbench](https://github.com/fstandhartinger/jevbench) — JevBench v1 - a benchmark for Jev-class typed decision models: smart, cheap, fast, reliable, open. _(★343, Python)_
 - [openjev-sglang](https://github.com/ekzhang/openjev-sglang) — Jev-compatible API endpoint based on open models (prefill-only) _(★334, Python)_
 - [openjev-verdict-2.0](https://github.com/Heman10x-NGU/openJev-verdict-2.0) — Calibrated 151M Non-Autoregressive Decision Engine beating TypeSafe Jev & Laya on LocalLLaMA/typed-decisions (77.10% acc, 0.0636 Brier, 0.0144 ECE) _(★306, Python)_
 - [killmyidea](https://github.com/monteduro/killmyidea) — Describe your startup idea. Jev decides: kill it, fix it or ship it. _(★279, TypeScript)_
 - [laya-ultrafast](https://github.com/ipenywis/laya-ultrafast) — Same as jev-ultrafast but using Laya _(★278, Python)_
-- [jev-dsh-decision](https://github.com/Devin-AXIS/jev-dsh-decision) — Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。 _(★273, JavaScript)_
-- [tev1](https://github.com/togethercomputer/tev1) — Open-weight, Jev-inspired decision model finetuned on top of Qwen3.5 4B _(★269, Python)_
-- [jev-mem](https://github.com/libingzheren/Jev-Mem) — Jev-Mem: System-One Controlled Agentic Memory _(★267, Python)_
+- [jev-dsh-decision](https://github.com/Devin-AXIS/jev-dsh-decision) — Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。 _(★274, JavaScript)_
+- [tev1](https://github.com/togethercomputer/tev1) — Open-weight, Jev-inspired decision model finetuned on top of Qwen3.5 4B _(★271, Python)_
+- [jev-mem](https://github.com/libingzheren/Jev-Mem) — Jev-Mem: System-One Controlled Agentic Memory _(★270, Python)_
 - [jevpilot](https://github.com/standardagents/jevpilot) — A playable Three.js driving simulator with Jev-powered autopilot _(★239, JavaScript)_
-- [Jeva](https://github.com/LiQiiiii/Jeva) — Jeva: System One Models from First Principles _(★233, Python)_
+- [Jeva](https://github.com/LiQiiiii/Jeva) — Jeva: System One Models from First Principles _(★234, Python)_
 - [systemoneharness](https://github.com/HarnessRouter/SystemOneHarness) — The system one Harness for system one models _(★207, Python)_
 - [JevPromptShield](https://github.com/JamesANZ/JevPromptShield) — Protect LLM agents against malicious prompts using JEV _(★206, TypeScript)_
 - [neo4jev](https://github.com/jexp/neo4jev) — Typesafe.ai System One Model Jev navigating a Neo4j graph by using a classifier over neighbouring relationships _(★189, Jupyter Notebook)_
-- [openjev](https://github.com/SiliconLabAI/OpenJev) — OpenSource Jev _(★188, TypeScript)_
-- [jevk5](https://github.com/allebee/jevk5) — JevK5: open-weight alternative to TypeSafe Jev. Typed decisions with probabilities in one forward pass; Apache-2.0 weights and code. _(★168, Python)_
+- [openjev](https://github.com/SiliconLabAI/OpenJev) — OpenSource Jev _(★187, TypeScript)_
+- [jevk5](https://github.com/allebee/jevk5) — JevK5: open-weight alternative to TypeSafe Jev. Typed decisions with probabilities in one forward pass; Apache-2.0 weights and code. _(★169, Python)_
 - [jev-forge](https://github.com/zwliJay/jev-forge) — An open training and inference stack for Jev-style decision models.  Train models to score dynamic candidate branches from a shared prefix, with support for high-cardinality choice, calibration, and fast batched inference. _(★164, Python)_
 - [reflex](https://github.com/kshetrajna12/reflex) — A small open decision model: state + typed questions -> calibrated probabilities. A Jev / System One re-creation on Qwen3.5. _(★153, Python)_
-- [open-jev](https://github.com/kyegomez/open-jev) — an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch _(★151, Python)_
+- [open-jev](https://github.com/kyegomez/open-jev) — an open-source, from-first-principles reconstruction of the ideas behind TypeSafe AI's Jev, written in pytorch _(★152, Python)_
 - [Self-Evolving_HealthJev](https://github.com/HC-Guo/Self-Evolving_HealthJev) — HealthClaw: Open-source Self-Evolving Personal Health Copilot _(★140, Python)_
-- *854 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *861 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
 ### SDKs, APIs & Routers (157)
 
-- [jev-gateway](https://github.com/vinilana/jev-gateway) — An easy way to use jev with your coding agent for tool calling reasoning _(★326, TypeScript)_
+- [jev-gateway](https://github.com/vinilana/jev-gateway) — An easy way to use jev with your coding agent for tool calling reasoning _(★325, TypeScript)_
 - [quackd](https://github.com/rokbenko/quackd) — One CLI for all your robots. Connect them, command them, and let them work together, each with an LLM for a brain (Claude, OpenAI, Gemini, Grok, or local via Ollama or vLLM) and a decision LLM for multiple choice (Jev, Laya, Kev). Drives Mi _(★297, Python)_
 - [jev-social](https://github.com/socai-io/jev-social) — Jev × socai turns a social research question into real Instagram, TikTok, and LinkedIn evidence plus a source-linked report. _(★213, JavaScript)_
 - [neurolink](https://github.com/juspay/neurolink) — The pipe layer of an AI nervous system — one interface connecting provider neurons to your application, across three inference types: generate, stream, and a calibrated decide (via TypeSafe Jev). MCP-native, voice (TTS/STT/realtime), RAG, m _(★169, TypeScript)_
@@ -204,22 +210,22 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [jevc](https://github.com/doronp/jevc) — Compile agent policy prose into deterministic verdict programs: narrow evidence questions for the model, the verdict computed in code. Install: npm i -g jev-compiler _(★7, TypeScript)_
 - *107 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### Agents & Automation (294)
+### Agents & Automation (296)
 
-- [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) — Fastest and cheapest web agent _(★24513, Python)_
-- [typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) — Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS. _(★1305, Python)_
-- [reticle](https://github.com/reticlehq/reticle) — AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native runtime perception to web & desktop applications. _(★1276, TypeScript)_
+- [jev-ultrafast](https://github.com/browser-use/jev-ultrafast) — Fastest and cheapest web agent _(★24542, Python)_
+- [typesafe-computer-use](https://github.com/awlevin/typesafe-computer-use) — Computer use for about $0.0002 a step: OCR the screen, classify the next action with TypeSafe, click. macOS. _(★1306, Python)_
+- [reticle](https://github.com/reticlehq/reticle) — AI agents can generate code, but still struggle to understand what they build. Reticle brings Jev-style machine-native runtime perception to web & desktop applications. _(★1281, TypeScript)_
 - [learn-agent-architecture](https://github.com/hardness1020/learn-agent-architecture) — Learn AI agents from scratch. _(★1119, Python)_
-- [foreman](https://github.com/thruwire/foreman) — Software factory foreman based on TypeSafe's Jev model _(★826, Python)_
+- [foreman](https://github.com/thruwire/foreman) — Software factory foreman based on TypeSafe's Jev model _(★827, Python)_
 - [hippo-memory](https://github.com/kitfunso/hippo-memory) — Biologically-inspired memory for AI agents. Decay, retrieval strengthening, consolidation. Zero runtime deps, SQLite, MCP. Benchmarked retrieval with an opt-in hosted TypeSafe Jev reranker. _(★770, TypeScript)_
 - [agent](https://github.com/AgentiLoop/Agent) — AgentiLoop Agent! — One app. Any AI. Your Mac, working for you. Native Swift agent for Mac: drives any app via Accessibility, codes/builds in Xcode, automates AppleScript, JXA, Swift and SMAppService shell (user/root). 23 LLM providers, loc _(★656, Swift)_
 - [jevrev](https://github.com/Alex314618-create/JevRev) — An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. _(★505, TypeScript)_
 - [vexjoy-agent](https://github.com/notque/vexjoy-agent) — VexJoy AI Agent with Jev Intelligent Routing - /do routes plain-English requests to the right specialist agent and gates the work with reviews, tests, and a learning loop. _(★450, Python)_
-- [agent-jev](https://github.com/malevrigns/agent-jev) — AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token deco _(★365, Python)_
-- [beebots](https://github.com/imikerussell/beebots) — Three AI trading bees on OKX, every decision by Jev. Paper trading by default. Not financial advice. _(★340, TypeScript)_
+- [agent-jev](https://github.com/malevrigns/agent-jev) — AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token deco _(★368, Python)_
+- [beebots](https://github.com/imikerussell/beebots) — Three AI trading bees on OKX, every decision by Jev. Paper trading by default. Not financial advice. _(★341, TypeScript)_
 - [ten-levels-of-jev](https://github.com/disler/ten-levels-of-jev) — Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own _(★272, TypeScript)_
-- [jev-engineering-zh](https://github.com/yibie/jev-engineering-zh) — 《Jev 工程学：为 coding agent 而作》完整中文翻译 — 保留原结构与 7 张插图 _(★230, n/a)_
-- [system1-agents](https://github.com/ThinkFlowLab/system1-agents) — System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics _(★183, Python)_
+- [jev-engineering-zh](https://github.com/yibie/jev-engineering-zh) — 《Jev 工程学：为 coding agent 而作》完整中文翻译 — 保留原结构与 7 张插图 _(★232, n/a)_
+- [system1-agents](https://github.com/ThinkFlowLab/system1-agents) — System 1 decision models (Jev, Laya, Cua-S1) as brain for agents: Browser use, computer use, games and robotics _(★184, Python)_
 - [supercov](https://github.com/supercorp-ai/supercov) — Coverage, security and code quality for coding agents _(★166, Rust)_
 - [pi-jev](https://github.com/y0usaf/pi-jev) — TypeSafe Jev as a decision layer for the Pi coding agent: a measured tool-call gate plus jev_ask for typed, calibrated answers _(★165, TypeScript)_
 - [webctl](https://github.com/dorkitude/webctl) — Smart web search CLI for agents, backed by Jev. Saves a lot of tokens. _(★161, Go)_
@@ -232,7 +238,7 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [autojev](https://github.com/thinkany-ai/autojev) — The model router for AI agents. _(★115, Rust)_
 - [jevgrep](https://github.com/nassim-arifette/jevgrep) — Jev-powered semantic code search for coding agents — find behavior across repositories via CLI or MCP, with exact source excerpts and line numbers. _(★113, TypeScript)_
 - [ha-jev](https://github.com/AboveColin/HA-Jev) — Ask your house a question, get a number back. Home Assistant integration for TypeSafe Jev: typed answers as sensors, four actions for automations, and a conversation agent for Assist. _(★89, Python)_
-- [JevAgentHarness](https://github.com/JevAgentHarness/JevAgentHarness) —  _(★86, Python)_
+- [JevAgentHarness](https://github.com/JevAgentHarness/JevAgentHarness) —  _(★87, Python)_
 - [jev-desktop](https://github.com/yikangy873-gif/jev-desktop) — TypeSafe Jev action selection inside Codex Computer Use _(★76, JavaScript)_
 - [semdecide](https://github.com/sharziki/semdecide) — Typed semantic decisions for Unix pipelines and CI, powered by TypeSafe AI Jev. _(★72, Python)_
 - [pi-advisor](https://github.com/philipbrembeck/pi-advisor) — Fully customizable Advisor and Executor flow plugin for the Pi Coding Agent _(★66, TypeScript)_
@@ -256,12 +262,12 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [jcr](https://github.com/NiazMorshed2007/jcr) — A Jev-powered resolver for agent harnesses to find deterministic commands and their context in a nested capability tree. _(★20, JavaScript)_
 - [jev-reflex-autonomy-lab](https://github.com/khordoo/jev-reflex-autonomy-lab) — Real-time drone swarm autonomy simulation using Jev for fast System 1 reflex decisions and collision avoidance, with optional System 2 reasoning for strategic guidance _(★18, TypeScript)_
 - [jevbot](https://github.com/lyramakesmusic/jevbot) — discord bot for jev that lets it talk _(★18, Python)_
-- *244 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *246 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### MCP & Agent Tools (532)
+### MCP & Agent Tools (533)
 
-- [fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. _(★7977, TypeScript)_
-- [hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills) — Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex) _(★1344, Python)_
+- [fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) — Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. _(★7980, TypeScript)_
+- [hermes-jev-skills](https://github.com/kerpopule/hermes-jev-skills) — Jev-powered model routing, memory, compaction, skill selection, computer and browser use for Hermes agents (also Claude Code and Codex) _(★1347, Python)_
 - [distill](https://github.com/samuelfaj/distill) — Get FAR MORE done with FAR FEWER tokens 🔥 _(★781, Rust)_
 - [jev-skill](https://github.com/wuyoscar/jev-skill) — An awesome collection of Jev use cases, workflows, and agent skills. _(★669, Python)_
 - [jev-mcp](https://github.com/jkudish/jev-mcp) — Fast, cheap, typed judgments from TypeSafe's Jev model, as MCP tools. _(★580, JavaScript)_
@@ -269,25 +275,25 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [perch](https://github.com/lakeday-org/perch) — Semantic code linting with Jev _(★314, JavaScript)_
 - [typesafe-mcp](https://github.com/itsmostafa/typesafe-mcp) — An mcp connector to evaluate anything fast and cheap. Give your AI agent direct access to typesafe ai's jev model and open weight models like laya _(★304, Go)_
 - [skillbox](https://github.com/kitze/skillbox) — Self-hosted, versioned skills library for AI agents. MCP, scoped clients, and optional Jev recommendations. _(★282, TypeScript)_
-- [aiwg](https://github.com/jmagly/aiwg) — Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Codex, Copilot, Cursor and more, plus SDLC workflows, session memory, and Jev decision support that off _(★229, TypeScript)_
+- [aiwg](https://github.com/jmagly/aiwg) — Reusable project context and specialist workflows for the AI tools you already use. Agents, skills, rules and MCP tools for Claude Code, Codex, Copilot, Cursor and more, plus SDLC workflows, session memory, and Jev decision support that off _(★230, TypeScript)_
 - [dsh-jev-plugin](https://github.com/luobosibing2/dsh-jev-plugin) — Native DeepSeek Harness (DSH) plugin integrating TypeSafe Jev as a System One decision layer for agent selection, supervision, corrections, and approvals. _(★214, JavaScript)_
 - [building-with-typesafe-jev](https://github.com/aaddrick/building-with-typesafe-jev) — Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects. _(★156, Python)_
+- [jevmem](https://github.com/Avinash-jetwani/jevmem) — Automatic project memory for Claude Code. Also works with Cursor and Codex. _(★152, TypeScript)_
 - [jev-pruner](https://github.com/tamaratran/jev-pruner) — Claude Code plugin: trim long Bash output with TypeSafe Jev before the model sees it _(★151, TypeScript)_
-- [jevmem](https://github.com/Avinash-jetwani/jevmem) — Automatic project memory for Claude Code. Also works with Cursor and Codex. _(★150, TypeScript)_
 - [skillranker](https://github.com/Dicklesworthstone/skillranker) — Rust CLI powered by Jev from TypeSafe.ai that ranks agent skills for the next step using live session context. Includes Claude Code hooks, structured JSON, abstention, and local feedback. Requires a TypeSafe API key. _(★142, Rust)_
 - [quicksilver](https://github.com/UditAkhourii/quicksilver) — Claude Code skill: hand bulk judgment calls to Jev. 86% fewer Claude tokens on a 12-task benchmark, up to 20x faster. One-line npx install. _(★142, JavaScript)_
-- [jev-style](https://github.com/lawrence3699/jev-style) — Small, calibrated decision models on your own machine: systemone-compatible local server, 6 agent skills, Claude Code guard, MCP tools. Weights on Hugging Face. _(★135, Python)_
+- [jev-style](https://github.com/lawrence3699/jev-style) — Small, calibrated decision models on your own machine: systemone-compatible local server, 6 agent skills, Claude Code guard, MCP tools. Weights on Hugging Face. _(★136, Python)_
 - [building-with-jev-skill](https://github.com/dbreunig/building-with-jev-skill) — A skill for writing and improving programs that call Jev, TypeSafe's System One model _(★133, n/a)_
 - [apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) — Apple developer docs and WWDC transcripts with RAG retrieval and Jev relevance ranking. _(★121, TypeScript)_
 - [formanator](https://github.com/timrogers/formanator) — Submit Forma <https://joinforma.com> benefit claims from the command line and Model Context Protocol (MCP) clients, with support for AI-powered receipt analysis with an LLM or Jev _(★102, Rust)_
-- [jevai-outskill-session-demo](https://github.com/Sugamm/jevai-outskill-session-demo) —  _(★79, TypeScript)_
+- [jevai-outskill-session-demo](https://github.com/Sugamm/jevai-outskill-session-demo) —  _(★78, TypeScript)_
 - [jevintent](https://github.com/Nisaka520/JevIntent) — 微信（FkWeChat 插件）：长按消息分析意图 / 情绪 / 回复姿态，只在本机弹提示，对方无感知 _(★72, Java)_
 - [jev-mcp](https://github.com/burnigtm/jev-mcp) — MCP server that puts TypeSafe Jev on the coding loop in Cursor, Codex, and any MCP client _(★64, TypeScript)_
 - [jev-rules](https://github.com/EliaAlberti/jev-rules) — Jev picks which of your rules apply to each prompt, so Claude only sees the ones that matter. _(★49, JavaScript)_
 - [jev-cli](https://github.com/shaharia-lab/jev-cli) — Command-line tool for TypeSafe AI's Jev model. Ask yes/no, multiple-choice and rubric questions about any text and get calibrated probabilities back. Answers become exit codes for shells and CI, JSON for scripts, and MCP tools for AI agents _(★46, Rust)_
 - [jev](https://github.com/BorisLeMeec/jev) — A claude code plugin for jev _(★45, Go)_
 - [ask-jev-skill](https://github.com/shantanugoel/ask-jev-skill) — Skill for Hermes, and other agents, to ask typesafe's jev _(★40, Python)_
-- [jev-skill-suggester](https://github.com/win4r/jev-skill-suggester) — 用 TypeSafe Jev 推荐已安装 Skill / Bounded installed-skill recommendations with TypeSafe Jev. Python CLI, Codex skill, bilingual docs and live examples. _(★33, Python)_
+- [jev-skill-suggester](https://github.com/win4r/jev-skill-suggester) — 用 TypeSafe Jev 推荐已安装 Skill / Bounded installed-skill recommendations with TypeSafe Jev. Python CLI, Codex skill, bilingual docs and live examples. _(★34, Python)_
 - [pi-jev-skill-picker](https://github.com/safzanpirani/pi-jev-skill-picker) — Rank Pi Agent Skills for the current task with TypeSafe Jev _(★32, TypeScript)_
 - [jev-permission-gate](https://github.com/madisonrickert/jev-permission-gate) — A Claude Code mod that uses TypeSafe's Jev to decide auto mode tool calls. 2x faster than the built-in classifier on the calls it decides. _(★32, TypeScript)_
 - [jev-judge-mcp](https://github.com/PyModel/jev-judge-mcp) — Typed judgment tools for MCP agents. TypeSafe's Jev model as verify, screen, find, classify, rerank, decide, compare, extract, review, gate, and score: the model judges, policy decides auto, review, or escalate. _(★29, Python)_
@@ -310,20 +316,20 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [typesafe-skill-router](https://github.com/DECRUX9812/typesafe-skill-router) — TypeSafe (Jev) skill routing for Hermes Agent: names the one skill worth loading, before the model call. Opt-in, stdlib only, ~$0.001 per routed turn. _(★14, Python)_
 - [dsh-jev-tools](https://github.com/HorusJiang/dsh-jev-tools) — Jev judgment, not generation: prune long tool output, screen fetched pages for injected instructions, and gate completion claims inside DeepSeek Harness. _(★14, TypeScript)_
 - [jev-cli](https://github.com/tumf/jev-cli) — Small dependency-free CLI for TypeSafe Jev _(★13, Python)_
-- *482 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *483 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### Web & Browsing (202)
+### Web & Browsing (206)
 
-- [jevgrep](https://github.com/dzhng/jevgrep) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context. _(★3226, TypeScript)_
+- [jevgrep](https://github.com/dzhng/jevgrep) — Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context. _(★3233, TypeScript)_
 - [jev-browser-use](https://github.com/wy-coliney/jev-browser-use) — 5–10x faster browser operations: Jev clicks, Codex thinks and verifies. Built at EZCollegeApp. _(★1214, JavaScript)_
-- [jev-seo](https://github.com/AgriciDaniel/jev-seo) — Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports. _(★844, Python)_
+- [jev-seo](https://github.com/AgriciDaniel/jev-seo) — Live SEO audit for any website from one homepage URL, judged by Jev. PDF, XLSX and Markdown reports. _(★915, Python)_
 - [jev-search](https://github.com/superagents-lab/jev-search) — Search the web with TypeSafe's Jev: source selection, query understanding and relevance ranking. Built with Search1API. _(★562, TypeScript)_
 - [jev-voice-browser](https://github.com/moritzkremb/jev-voice-browser) — Control a real browser by voice. Jev (TypeSafe System One) decides intent + target in ~300 ms per spoken word; Playwright acts — often before you finish the sentence. _(★432, JavaScript)_
 - [unclutter](https://github.com/kitze/unclutter) — WXT browser extension: Jev-powered page clutter removal with reusable template rules. _(★395, TypeScript)_
 - [jev-browser](https://github.com/jkudish/jev-browser) — Browser use using Typesafe's Jev model _(★372, JavaScript)_
-- [jev-job-search](https://github.com/qbeka/jev-job-search) — Find software internships and new-grad jobs, fill the application forms, check every answer on the page, and send the ones you approve. JEV decides, code acts, Claude writes. Runs on your machine with Claude Code. _(★368, TypeScript)_
-- [fastbrowse](https://github.com/agent-labs-dev/fastbrowse) — A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page. _(★229, Python)_
-- [RSI-Jev](https://github.com/Shanghua-Gao/RSI-Jev) — Typed-decision models (noul / choice / score) trained by a self-improving loop of AI agents — checkpoints, the code that produced them, and every version that failed. _(★137, Python)_
+- [jev-job-search](https://github.com/qbeka/jev-job-search) — Find software internships and new-grad jobs, fill the application forms, check every answer on the page, and send the ones you approve. JEV decides, code acts, Claude writes. Runs on your machine with Claude Code. _(★372, TypeScript)_
+- [fastbrowse](https://github.com/agent-labs-dev/fastbrowse) — A fast browser agent: Jev picks each action from what is on the page, an LLM reads and plans, and every claim in an answer cites a quote from the page. _(★231, Python)_
+- [RSI-Jev](https://github.com/Shanghua-Gao/RSI-Jev) — Typed-decision models (noul / choice / score) trained by a self-improving loop of AI agents — checkpoints, the code that produced them, and every version that failed. _(★138, Python)_
 - [jev-browser](https://github.com/Ying-Kai-Liao/jev-browser) — Browser automation where an LLM plans and Jev (Typesafe System One) decides. Library, CLI and MCP server. _(★136, JavaScript)_
 - [jev-browser](https://github.com/openqa-cn/jev-browser) — Jev Browser — indexed browser automation. Jev chooses the control, Playwright acts. A CodexQA skill. _(★109, TypeScript)_
 - [jev-seo](https://github.com/AkashPriyadarshii/jev-seo) — jev-seo: Rust SEO and GEO CLI plus MCP server for coding agents: 50-rule audits, live crawls, GEO scores, rank drift, CI gates. MIT, zero subscription. _(★100, Rust)_
@@ -364,11 +370,11 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [jev-turbo](https://github.com/sightmap/jev-turbo) — Jev-powered semantic browser use _(★3, Go)_
 - [jev-2048-selenium](https://github.com/AMMIROSOH/jev-2048-selenium) — Selenium 2048 player powered by expectimax search and TypeSafe Jev, with portrait FFmpeg recording. _(★3, Python)_
 - [jev-demofast](https://github.com/q3learners/jev-demofast) — One sentence in, a narrated product demo out. NVIDIA Nemotron on Nebius Token Factory writes the founder's script; Jev drives your site in a real browser. _(★3, Python)_
-- *152 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *156 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### Developer Tools (334)
+### Developer Tools (336)
 
-- [pg-jev](https://github.com/realZachi/pg-jev) — Ask your Postgres tables questions in plain language. A PostgreSQL extension powered by TypeSafe's Jev. _(★1313, Shell)_
+- [pg-jev](https://github.com/realZachi/pg-jev) — Ask your Postgres tables questions in plain language. A PostgreSQL extension powered by TypeSafe's Jev. _(★1314, Shell)_
 - [momo-code](https://github.com/momozi1996/momo-code) — MOMO CODE — RSI *JEV*Pi --AI coding agent that evolves with you _(★1112, TypeScript)_
 - [jeff](https://github.com/logan-markewich/jeff) — A self-hosted drop-in replacement for TypeSafe's jev, powered by GliFormer. _(★319, Python)_
 - [astra-ares](https://github.com/miuuyy/Astra-Ares) — Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage. _(★315, JavaScript)_
@@ -407,10 +413,10 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [fast-jev-compaction-opencode](https://github.com/overbit/fast-jev-compaction-opencode) —  _(★14, TypeScript)_
 - [jev-commit](https://github.com/valentynkit/jev-commit) — pre-commit hook: one Jev call judges whether your commit message matches the diff, plus debug leftovers, scope creep, and a secret belt _(★13, Python)_
 - [jevql](https://github.com/kylemclaren/jevql) — Semantic SQL for Postgres, powered by Jev _(★13, Go)_
-- [lintus](https://github.com/virolea/lintus) — A linter whose rules are written in plain language. _(★13, Rust)_
 - [duomind](https://github.com/j1s4nn/duomind) — Pair a small local LLM (System 2) with a fast classification API (System 1) to make 3B models reason like bigger ones — OpenAI-compatible, private, and almost free to run. _(★13, Python)_
 - [jev-askable-arm](https://github.com/TarunTomar122/jev-askable-arm) — Zero-shot English goals on a sim Franka. Jev chains hardcoded primitives. _(★12, Python)_
 - [jevlint](https://github.com/iamtoomas/JevLint) — Configurable semantic linting powered by Jev, with file-level NOUL judgments and a magic-strings plugin. _(★12, TypeScript)_
+- [lintus](https://github.com/virolea/lintus) — A linter whose rules are written in plain language. _(★12, Rust)_
 - [jevsdsql](https://github.com/Sheltercosmo/JevSDSQL) — A self-developing SQL database with JEV based semantic operators and natural language queries. _(★12, Python)_
 - [taste-lint](https://github.com/mblode/taste-lint) — Catch AI slop before you ship. _(★11, TypeScript)_
 - [Local-Jev](https://github.com/ronitgupta138/Local-Jev) — ⚡ 100% offline, zero-cost drop-in alternative to TypeSafe Jev System One decision models in Rust (<18ms on CPU) _(★11, Rust)_
@@ -418,9 +424,9 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [jevpr](https://github.com/HexyeDEV/JevPR) — PR Risk review, automated by Jev _(★9, Python)_
 - [jev-codex-bridge](https://github.com/ansidium/jev-codex-bridge) — Model and reasoning routing for Codex Desktop and CLI, with a Windows service and validated updates _(★9, JavaScript)_
 - [every](https://github.com/sufianetaouil/every) — Ask a yes/no question of every function in a codebase. Ranked answers in seconds, for cents. Grep whose pattern is a question, powered by TypeSafe Jev. _(★8, Python)_
-- *284 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *286 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### Games & Play (233)
+### Games & Play (234)
 
 - [minecraft-agent](https://github.com/rmalde/minecraft-agent) — Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification. _(★610, JavaScript)_
 - [typesafe-mario](https://github.com/fhshaik/typesafe-mario) — A TypeSafe/Jev agent that plays Super Mario Bros. from structured emulator state. _(★463, Python)_
@@ -472,14 +478,14 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [jev-turtle-soup](https://github.com/HsiangNianian/jev-turtle-soup) — 一个可以独自推理、邀朋友同桌，也能亲手出题的海龟汤社群——基于 decision model: jev _(★4, TypeScript)_
 - [snake-jev](https://github.com/siroccomask/snake-jev) — Snake controlled by parallel Jev assessments, with one API call per game tick. _(★3, Python)_
 - [jev-play-ping-pong](https://github.com/Icohen007/jev-play-ping-pong) — Jev plays browser table tennis in real time: structured telemetry, typed decisions, ordinary Chrome inputs, and auditable evidence. _(★3, JavaScript)_
-- *183 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *184 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### Chat & Messaging (182)
+### Chat & Messaging (184)
 
-- [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 _(★8387, Kotlin)_
-- [jev-chat-windows](https://github.com/jev-chat/jev-chat-windows) — JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动 _(★890, Python)_
-- [goutoujunshi-jev-chat](https://github.com/shengjidaguai-china/goutoujunshi-jev-chat) — 狗头军师 Chat：Mac 微信读屏、关系分析与回复草稿悬浮窗 _(★644, Python)_
-- [jev-chat-jarvis-mac](https://github.com/jev-chat/jev-chat-jarvis-mac) — 聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。 _(★529, Python)_
+- [jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) — 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 _(★8409, Kotlin)_
+- [jev-chat-windows](https://github.com/jev-chat/jev-chat-windows) — JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动 _(★891, Python)_
+- [goutoujunshi-jev-chat](https://github.com/shengjidaguai-china/goutoujunshi-jev-chat) — 狗头军师 Chat：Mac 微信读屏、关系分析与回复草稿悬浮窗 _(★648, Python)_
+- [jev-chat-jarvis-mac](https://github.com/jev-chat/jev-chat-jarvis-mac) — 聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。 _(★530, Python)_
 - [332_lab-jev-chat](https://github.com/Liyucheng1997/332_lab-jev-chat) — Jev Chat Assistant for Windows - 电脑版微信意图判断与 DeepSeek 建议回复 _(★163, Kotlin)_
 - [jev-chat](https://github.com/w3cj/jev-chat) — A tool calling chat bot built with Jev and no LLM. _(★126, TypeScript)_
 - [jevchat](https://github.com/kyle-pena-nlp/jevchat) — Turns Jev into a chatbot _(★91, Python)_
@@ -510,7 +516,6 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [arxiv-jev-digest](https://github.com/Monkeypox966/arxiv-jev-digest) — Daily arXiv screening with Jev, DeepSeek summaries, and email delivery via GitHub Actions _(★2, Python)_
 - [bouncer](https://github.com/Faycall1l/bouncer) — Programmable live-chat mod in one 30ms System One pass (Laya/Jev-compatible) _(★2, Python)_
 - [mailroom](https://github.com/Kevin-Liu-01/mailroom) — Your Gmail, sorted. Rules you can read, typed AI judgments from TypeSafe's Jev for pennies, receipts and undo for everything. _(★2, TypeScript)_
-- [jev-chat-jarvis](https://github.com/SanHsien/jev-chat-jarvis) — 裝在手機上的「對話副駕」：讀取最新訊息、AI 分析意圖並建議回覆，一鍵填入聊天輸入框。｜A conversation co-pilot on your phone: analyzes incoming messages, suggests replies, and fills them into chat apps. _(★2, Python)_
 - [lanebreak](https://github.com/ndolinschi/lanebreak) — LaneBreak — support ticket priority+routing via TypeSafe Jev _(★1, TypeScript)_
 - [scam-shield](https://github.com/ShupingR/scam-shield) — Scam text message filter powered by TypeSafe's Jev model _(★1, TypeScript)_
 - [jev-inbox-queue](https://github.com/tusharck/jev-inbox-queue) — Turn an inbox into a short action queue with Jev (TypeSafe System One) _(★1, Python)_
@@ -526,12 +531,13 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [chatwoot-workers](https://github.com/Phala-Network/chatwoot-workers) — Cloudflare Workers for Chatwoot: chatwoot-discord-relay runs support from a Discord forum with humans and AI agents; chatwoot-router routes new tickets with AI triage (TypeSafe Jev). _(★1, TypeScript)_
 - [x-reply-filter](https://github.com/zhuyansen/x-reply-filter) — Chrome extension: collapse spam, bait, off-topic and AI-filler replies on X. Local rules + TypeSafe Jev, learns from what you hide. _(★1, JavaScript)_
 - [zhixian-wechat](https://github.com/DiscoveryH2/zhixian-wechat) — 知弦，基于jev开发微信助手，支持pc端 _(★1, Python)_
-- *132 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- [jevmod](https://github.com/ohernandezdev/jevmod) — Moderation for communities and apps, powered by Jev (TypeSafe): probabilities per category, thresholds you own. Discord/Telegram/Reddit bots, CLI, Python, npm, HTTP API, MCP. _(★1, Python)_
+- *134 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
 ### Finance & Trading (103)
 
 - [quantdinger](https://github.com/OpenByteInc/QuantDinger) — Open-source AI Trading OS, agent trading, and vibe trading, with Jev System One integration. Research, build Python strategies, backtest, and paper/live trade across crypto, stocks, and forex. Launch your own multi-tenant trading SaaS with  _(★13570, Python)_
-- [jev-trader](https://github.com/jarrodwatts/jev-trader) — One AI trade decision every Monad block. Jev on Kuru MON-USDC. _(★3139, TypeScript)_
+- [jev-trader](https://github.com/jarrodwatts/jev-trader) — One AI trade decision every Monad block. Jev on Kuru MON-USDC. _(★3140, TypeScript)_
 - [ppj-paperjev](https://github.com/YI-LON/ppj-paperjev) — Automated perps trader: Jev makes the call, Papertrade fills it at Hyperliquid mid. BTC and SOL on HyperEVM. _(★912, JavaScript)_
 - [aistock](https://github.com/EthanAlgoX/AIStock) — One person can become their own super-analyst. Try it online: https://myaistock.top _(★362, Python)_
 - [jev-trade](https://github.com/aowang-ai/jev-trade) — Live Jev trader on Hyperliquid _(★227, TypeScript)_
@@ -582,12 +588,12 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [JEV_AI_FINANCIAL_ADVISOR](https://github.com/cloudsony999/JEV_AI_FINANCIAL_ADVISOR) —  _(★0, Python)_
 - *53 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### Safety, Routing & Guardrails (610)
+### Safety, Routing & Guardrails (625)
 
 - [solo_jev](https://github.com/0814wdwd/solo_jev) — Per-row semantic judgements over large relational tables on a decision model (Jev) _(★753, Python)_
 - [jev-review](https://github.com/devagrawal09/jev-review) — A staged code-review workflow and local dashboard built with TypeSafe Jev. _(★703, TypeScript)_
-- [jev-router](https://github.com/gargpratyush/jev-router) — Route to the cheapest model in claude code for your task using jev-router _(★668, JavaScript)_
-- [jevrouter](https://github.com/BillionsBobby/JevRouter) — A lightweight Jev-powered router for models, tools, and subagents _(★469, TypeScript)_
+- [jev-router](https://github.com/gargpratyush/jev-router) — Route to the cheapest model in claude code for your task using jev-router _(★669, JavaScript)_
+- [jevrouter](https://github.com/BillionsBobby/JevRouter) — A lightweight Jev-powered router for models, tools, and subagents _(★470, TypeScript)_
 - [jev-codex-router](https://github.com/0xNatoshi/jev-codex-router) — Per-turn model & reasoning routing for Codex, driven by Jev (TypeSafe System One): picks the model, thinking depth and speed mode for every turn. _(★275, JavaScript)_
 - [jev-review](https://github.com/NiazMorshed2007/jev-review) — Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev. _(★253, TypeScript)_
 - [jev-guard](https://github.com/leepokai/jev-guard) — Auto mode for every coding agent, built on Jev: risk-scores every tool call with session context (deny / ask / allow), flags prompt injection in results, checks skills and plugins. Claude Code, Codex, Copilot, Gemini, Cursor, pi, OpenCode,  _(★153, JavaScript)_
@@ -634,15 +640,15 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [opencode-jev-router](https://github.com/robertn702/opencode-jev-router) — Adaptive reasoning effort for OpenCode via Jev, with an in-process plugin and Responses API proxy _(★10, TypeScript)_
 - [jevia](https://github.com/assistant-ui/jevia) — outcome-aware model routing for coding agents with deterministic cache powered by Jev _(★10, Rust)_
 - [jev-router](https://github.com/rajdhakad9826/jev-router) — LLM router that picks the cheapest model capable of handling a query, using TypeSafe's Jev for fast classification instead of an LLM call. _(★9, TypeScript)_
-- *560 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *575 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### Productivity & Knowledge (82)
+### Productivity & Knowledge (83)
 
-- [jevharness](https://github.com/TianyuCodings/JevHarness) — LLM-authored task-specific Jev harnesses with optional full-trajectory reward reflection and GEPA evolution. _(★559, Python)_
+- [jevharness](https://github.com/TianyuCodings/JevHarness) — LLM-authored task-specific Jev harnesses with optional full-trajectory reward reflection and GEPA evolution. _(★560, Python)_
 - [dasheng](https://github.com/wquguru/dasheng) — 大声读 — R2T2 流式 ASR 听，Jev 逐词判，英文朗读评分 _(★139, JavaScript)_
 - [Jevstiller](https://github.com/tomerglick57/Jevstiller) — Distill a repeated Jev classification task into a local model, on the fly — same answers, your hardware. _(★81, Python)_
 - [jev-design](https://github.com/bilune/jev-design) — Can a model design a dashboard? A console whose whole design system is generated at runtime by Jev from a one-sentence brief. _(★55, TypeScript)_
-- [cookbook](https://github.com/Jev-Engineering/cookbook) — Sixty notebook recipes for typed decisions with Jev: Choice, Noul and Score patterns from a first classification to closed-loop control _(★32, Jupyter Notebook)_
+- [cookbook](https://github.com/Jev-Engineering/cookbook) — Sixty notebook recipes for typed decisions with Jev: Choice, Noul and Score patterns from a first classification to closed-loop control _(★34, Jupyter Notebook)_
 - [SpotAsk](https://github.com/shiquda/SpotAsk) — Native macOS menu-bar AI assistant & query router. Ask with a hotkey — answer in-app (BYOK), or let jev route to web AI and local CLI agents automatically or in 1 click. _(★23, Swift)_
 - [jevgraph](https://github.com/chenmingtang830/jevgraph) — Evidence-backed knowledge graph construction with typed Jev relation decisions _(★22, Python)_
 - [Cyrene](https://github.com/chenkezhen480/Cyrene) — 面向多租户与身份隔离的垂类Agent开发框架，包含LLM wiki+知识图谱+rag的记忆与知识系统，Jev路由决策，联网搜索，子Agent，多模态，一键对接项目接口封装工具等工具包，快速搭建面向系统的Agent服务 _(★6, Java)_
@@ -661,6 +667,7 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [JevHarness](https://github.com/gloria112/JevHarness) — Build task-specific harnesses for Jev to cut latency and costs, then refine them with rewards and full execution traces. _(★1, TypeScript)_
 - [notework-ai](https://github.com/hpsonghyun/notework-ai) — Turn selected Obsidian notes into structured knowledge with Jev. Chat with your AI subscription or API key and inspect the evidence for every question. _(★1, JavaScript)_
 - [taskpenny](https://github.com/cintocasals/taskpenny) — Frontier prices only for frontier work: each task goes to the cheapest model that does it well, a request is split only when that pays, and every result is checked. Decisions by Jev. _(★1, Python)_
+- [jev-atlas](https://github.com/O8pen/jev-atlas) — Jev Atlas: a wiki-style atlas of everything built with Jev and other decision models _(★0, CSS)_
 - [jev-calendar-rust](https://github.com/iJaack/jev-calendar-rust) — Rust backend and public booking gateway for book.jaack.me _(★0, Rust)_
 - [jev-rednote](https://github.com/JDChi/jev-rednote) — 小红书网页版评论过滤 Chrome 扩展。使用 Jev 识别推广引流和发给点点的请求，自动标记或折叠。 _(★0, JavaScript)_
 - [xinote-model-benchmarks](https://github.com/sehunkuim/xinote-model-benchmarks) — Results-only reports for Xinote OCR, formula, layout, ASR and JEV: objectives, hyperparameters and before/after benchmarks. Data, training code and weights remain private. _(★0, n/a)_
@@ -687,13 +694,12 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [jev-bookmarks](https://github.com/kitepon/jev-bookmarks) — Chrome履歴から目的に合うページを選び、Jevで操作して役立ったURLだけをプロジェクトごとに記録するCLI _(★0, Python)_
 - [jev-lab](https://github.com/HurayrahB/jev-lab) — Hands-on experiments with TypeSafe's Jev (System One model): primitives, routing, ranking, with captured outputs and lab notes _(★0, Python)_
 - [DataWhale-Jev-Notes](https://github.com/KiCola/DataWhale-Jev-Notes) —  _(★0, n/a)_
-- [snap-vs-jev-swe](https://github.com/kprzybys/snap-vs-jev-swe) — Reproducible benchmark of fast AI decision models (SubQ Snap, TypeSafe Jev, open models) on software-engineering tasks: SWE-bench Verified file localization, long context, option order _(★0, Python)_
-- *32 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *33 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### Media & Content (83)
+### Media & Content (84)
 
 - [imajev](https://github.com/mohit67890/imajev) — Open Jev-style typed-decision model that also takes images: photo + app state + typed questions in, calibrated probabilities out, locally. _(★434, Python)_
-- [VideoJev](https://github.com/MCG-NJU/VideoJev) — VideoJev: System One Model for Video Understanding and Interaction _(★310, Python)_
+- [VideoJev](https://github.com/MCG-NJU/VideoJev) — VideoJev: System One Model for Video Understanding and Interaction _(★311, Python)_
 - [OneJev](https://github.com/OmniJev/OneJev) — 🚀🚀 A multimodal System One decision model that gives calibrated answers to typed questions about screens, photos, video and text in one forward pass. _(★273, Python)_
 - [hyperedit](https://github.com/kevinbadi/hyperedit) — AI-powered video editor with FFMPEG, Remotion, & Obsidian Agents Baked in - POWERED BY JEV  _(★215, TypeScript)_
 - [JEV_sees](https://github.com/CharlesFeng0314/JEV_sees) — Eyes are All JEV Needs - real time visual devisions from RGB, video and RGB-D cameras. _(★212, Python)_
@@ -702,8 +708,8 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [jev-voice](https://github.com/kevinbadi/jev-voice) — Talk to your Mac. Local whisper.cpp + one Jev (TypeSafe) call per command + macOS automation. _(★138, Python)_
 - [youtube-sponsor-detection](https://github.com/trungdq88/youtube-sponsor-detection) — Detect youtube sponsor segment with live audio and transcript powered by Jev _(★97, JavaScript)_
 - [jev-paint](https://github.com/achimala/jev-paint) — Use Jev to make art! _(★58, JavaScript)_
+- [Jev-Interaction](https://github.com/native-bond-lab/Jev-Interaction) — System-One-controlled full-duplex voice interaction: turn-taking as plain-language decisions judged by Jev. _(★50, Python)_
 - [live-jev](https://github.com/okinaaudio/live-jev) — Control Ableton Live with one short sentence (Japanese / English). Summon with ⌘⇧Space, type or dictate, done. _(★42, Python)_
-- [Jev-Interaction](https://github.com/native-bond-lab/Jev-Interaction) — System-One-controlled full-duplex voice interaction: turn-taking as plain-language decisions judged by Jev. _(★35, Python)_
 - [vev](https://github.com/Xiaooolong/vev) — Jev-like decision models that can also see images — open weights on Qwen3.5, run on your own GPU _(★28, Python)_
 - [jevclip](https://github.com/cclank/jevclip) — Jev-powered video highlights and cited summaries from subtitles and scripts _(★24, Python)_
 - [transcript-lens](https://github.com/sensahin/transcript-lens) — YouTube transkriptlerini anlamına göre keşfedin. Türkçe arayüz, Jev analizi, altyazı dışa aktarma ve Vercel kurulum rehberi. _(★18, TypeScript)_
@@ -736,15 +742,15 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [VideoMind](https://github.com/Morimi-Kazuha/VideoMind) — VideoMind 是一个面向长视频理解的多模态 AI Agent 工作台，通过时序 ASR/OCR、Evidence Grounding、AgentLoop、受限 Tool Calling、Jev 模型路由与预算控制，实现从 AI 回答到原视频证据的可追溯分析闭环。 _(★1, Python)_
 - [audio-jevlike](https://github.com/alperiox/audio-jevlike) — Prosodia: an audio-native Jev-shaped decision model — typed calibrated decisions from speech, no ASR _(★1, Python)_
 - [ai-dj](https://github.com/yask123/ai-dj) — An AI with its hands on the decks: real songs, real DJ moves, every move a tool call decided live by Jev in ~150 ms _(★1, Swift)_
+- [feed-filter](https://github.com/ranawaqas-ai/feed-filter) — Chrome extension that blurs YouTube feed cards until Jev checks each video against your goals. Bring your own TypeSafe key. _(★0, JavaScript)_
 - [skipper](https://github.com/fadil013/skipper) — Skips YouTube sponsors on videos nobody has labeled yet (fork of valentynkit/jev-skip) _(★0, TypeScript)_
 - [MedJev](https://github.com/zfkarl/MedJev) — MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding _(★0, Python)_
 - [jev-voice](https://github.com/VamsiKrishnaCommits/jev-voice) — When I saw how low Jev's latency was, I realized I could place it between STT and the LLM to decide when to wait and when to respond. The results were surprisingly good: fewer premature interruptions and more natural conversations. _(★0, Python)_
 - [voice-router](https://github.com/jaimemachadoneto/voice-router) — The voice assistant decision service: the word filter, Jev, Kev beside it, the act rule and the log. _(★0, Python)_
 - [youtube-sponsor-skip](https://github.com/AnatoliyLikarchuk/youtube-sponsor-skip) — Расширение Chrome и Safari, которое находит рекламные интеграции в русскоязычных YouTube-видео по субтитрам с помощью TypeSafe Jev (OpenRouter) и автоматически их перематывает. Пауза, таймкоды, дневной лимит расходов. _(★0, JavaScript)_
-- [JEV_sees](https://github.com/c2c-Ride/JEV_sees) — Give JEV vision with JEV Sees: detect and track objects in images, video, and RGB-D, then ask JEV questions about each object. _(★0, n/a)_
-- *33 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *34 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### Mobile & Desktop Apps (56)
+### Mobile & Desktop Apps (57)
 
 - [tiptour-macos](https://github.com/milind-soni/tiptour-macos) — Open-Source fast local computer use _(★702, Swift)_
 - [keel](https://github.com/codejunkie99/keel) — Local-first macOS coding workspace with local Laya and optional Jev decision selection _(★380, Rust)_
@@ -771,6 +777,7 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [JEVIL-uninstaller](https://github.com/severs65/JEVIL-uninstaller) — A lightweight portable Windows uninstaller with leftover cleanup, Appx/UWP support and Safe Mode removal. _(★1, C++)_
 - [jevcast](https://github.com/RyanErkal/jevcast) — Native macOS launcher and window manager. Optional natural-language matching with Jev by TypeSafe AI. _(★1, Swift)_
 - [droidjev](https://github.com/mkruglikov/droidjev) — A fast, screenshot-free Android emulator clicker powered by TypeSafe's jev _(★0, JavaScript)_
+- [ProjetoJeves-Database](https://github.com/CaioLincon/ProjetoJeves-Database) — Projeto prático de modelagem relacional de banco de dados para um sistema web centralizado de competições escolares (Vespasiano). O objetivo é substituir o controle manual em planilhas e formulários avulsos por um fluxo integrado de cadastr _(★0, n/a)_
 - [killercoda](https://github.com/dbehelitate/killercoda) —  agentgateway LLM Guardrails :: JEV  security guardrails :: KServe :: Killercoda. _(★0, Shell)_
 - [android-voice-control](https://github.com/dbrodie/android-voice-control) — Control your Android phone by voice: GPT-Live + on-device JEV screenshot→act loop _(★0, Kotlin)_
 - [live-interview-demo](https://github.com/K-Maass/live-interview-demo) — Live Interview source preview: local macOS speech, Jev decisions, model routing, and reproducible evaluations. _(★0, TypeScript)_
@@ -795,8 +802,7 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [jev-router-windows](https://github.com/pouramin/jev-router-windows) — One-click Jev routing for Claude Code and Codex on Windows. _(★0, PowerShell)_
 - [StudyWhisper](https://github.com/rnahumaf/StudyWhisper) — Assistente de estudo Windows: escuta pausável, triagem textual JEV e respostas em texto. MIT. _(★0, C#)_
 - [jev-harness](https://github.com/Cleobury/jev-harness) —  Push-to-talk voice control for Windows: local Whisper, Windows OCR and TypeSafe's Jev model decide what to click, type and open. _(★0, Python)_
-- [Navi](https://github.com/LiamCarlin/Navi) — Jev-powered Spotlight replacement for macOS — typed fast decisions, Claude for answers and computer use, local screen memory into an Obsidian vault _(★0, Swift)_
-- *6 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *7 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
 ### Home, IoT & Robotics (23)
 
@@ -826,20 +832,20 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 
 ### Awesome Lists & Catalogs (128)
 
-- [awesome-jev](https://github.com/yibie/awesome-jev) — A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions. _(★2591, Python)_
+- [awesome-jev](https://github.com/yibie/awesome-jev) — A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System One model for typed decisions. _(★2598, Python)_
 - [awesome-jev](https://github.com/heyjunpenn/awesome-jev) — A verified, community-maintained catalog of 916 open-source projects built with Jev. _(★1076, Astro)_
 - [awesome-jev-by-typesafe](https://github.com/Anil-matcha/awesome-jev-by-typesafe) — Evidence-backed use cases, patterns, prompts, and starter code for TypeSafe Jev — a System One model for fast, typed, confidence-aware decisions in software. _(★914, Python)_
-- [awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) — A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions. _(★761, n/a)_
-- [awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects) — Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync _(★730, JavaScript)_
-- [awesome-decision-models](https://github.com/AnotiaWang/awesome-decision-models) — A curated list of decision models (System One / typed decision models): hosted APIs, open-weight models, runtimes, SDKs, applications, benchmarks, and papers. _(★717, Python)_
+- [awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) — A curated list of tools  built for Jev — TypeSafe AI's System One model for typed decisions. _(★763, n/a)_
+- [awesome-jev-projects](https://github.com/logicrw/awesome-jev-projects) — Awesome Jev: source-backed open-source ecosystem radar, plain-language project discovery, and automatic GitHub sync _(★731, JavaScript)_
+- [awesome-decision-models](https://github.com/AnotiaWang/awesome-decision-models) — A curated list of decision models (System One / typed decision models): hosted APIs, open-weight models, runtimes, SDKs, applications, benchmarks, and papers. _(★718, Python)_
 - [awesome-typesafe](https://github.com/AbdelStark/awesome-typesafe-jev) — Awesome Jev: a source-backed field guide to TypeSafe's System One model, with SDKs, live demos, agent tools, and independent evaluations. _(★618, HTML)_
 - [awesome-jev](https://github.com/kydlikebtc/awesome-jev) — 1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文,  _(★602, Python)_
 - [awesome-jev](https://github.com/cobanov/awesome-jev) — A curated, source-backed list of projects built with Jev, TypeSafe AI's System One model for typed decisions. _(★599, n/a)_
 - [awesome-jev](https://github.com/AnotiaWang/awesome-jev) — A curated list of awesome Jev / TypeSafe System One applications, libraries, and resources. _(★591, n/a)_
 - [awesome-jev](https://github.com/OmniJev/awesome-jev-gallery) — 🔥🔥 Papers, open reproductions and independent evaluations behind System One models and Jev. _(★494, JavaScript)_
-- [awesome-jev-use-cases](https://github.com/walidboulanouar/awesome-jev-use-cases) — Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0 _(★493, n/a)_
+- [awesome-jev-use-cases](https://github.com/walidboulanouar/awesome-jev-use-cases) — Awesome list of TypeSafe AI Jev use cases: 74 demos ranked by likes, 150+ GitHub repos, limits, cost and API examples. CC0 _(★494, n/a)_
 - [awesome-jev-live](https://github.com/wh000wh000/awesome-jev-live) — Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours. _(★379, Python)_
-- [awesome-jev](https://github.com/Amal-David/awesome-jev) — Jev demos, projects, SDKs and skills, with source links and a curated X gallery. _(★247, Python)_
+- [awesome-jev](https://github.com/Amal-David/awesome-jev) — Jev demos, projects, SDKs and skills, with source links and a curated X gallery. _(★248, Python)_
 - [awesome-jev](https://github.com/fatwang2/awesome-jev) — A source-backed Jev project directory with a reusable Jev-only GitHub review workflow. _(★234, JavaScript)_
 - [awesome-jev](https://github.com/hellogumbo/awesome-jev) — A community directory of projects built on Jev, TypeSafe AI's System One model. _(★226, JavaScript)_
 - [awesome-jev](https://github.com/kraayenjon/awesome-jev) — A curated list of Jev use cases, projects, SDKs, and resources. Jev is TypeSafe AI's System One model for fast, typed decisions in software — Choice, Score, and Noul with calibrated probabilities. _(★207, n/a)_
@@ -851,7 +857,7 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [awesome-jev-zh](https://github.com/yzfly/awesome-jev-zh) — Jev / TypeSafe System One 中文精选列表：官方资料、SDK、爆款应用、Agent 工具、开源复现与独立评测，附中文上手指南，每日自动收录 GitHub 热门项目。 _(★95, HTML)_
 - [awesome-jev](https://github.com/BeatAPI/awesome-jev) — A source-reviewed gallery of JEV-related projects with 50+ GitHub stars — integrations, tools, open models, experiments, and ecosystem resources. Live gallery: beatapi.io/awesome-jev _(★69, JavaScript)_
 - [awesome-system-one](https://github.com/andyrewlee/awesome-system-one) — A curated list of System One models, open implementations, agents, SDKs, and benchmarks _(★58, n/a)_
-- [jev-paper-radar](https://github.com/Eliot5566/JEV-Paper-Radar) — Let Jev read every new arXiv paper each morning and surface the few you should read. Plain-English interests, calibrated probabilities, ~$0.06/day, fork and go. _(★42, Python)_
+- [jev-paper-radar](https://github.com/Eliot5566/JEV-Paper-Radar) — Let Jev read every new arXiv paper each morning and surface the few you should read. Plain-English interests, calibrated probabilities, ~$0.06/day, fork and go. _(★43, Python)_
 - [jev-radar](https://github.com/everyinfra/jev-radar) — 📡 全网最全 · The world's most comprehensive tracker of the Jev (TypeSafe AI System One) ecosystem — 220+ documented cases · 108 confidence-graded entries · verified & rescanned every 3 hours · API access guide included _(★39, n/a)_
 - [jev-cookbook](https://github.com/nexibeo/jev-cookbook) — Practical, tested recipes for TypeSafe's Jev decision model on OpenRouter: support triage, database indexing, file organizing, tagging, taxonomies, dedupe, PII detection, extraction, search re-ranking and a browser agent. _(★28, JavaScript)_
 - [awesome-jev](https://github.com/tanxarx/awesome-jev) — All things awesome related to Jev _(★25, n/a)_
@@ -878,17 +884,17 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [jevscape](https://github.com/Skyvern-AI/jevscape) — RuneBench harness for TypeSafe's Jev: bounded action catalog, tick-mode controller and a live dashboard _(★8, TypeScript)_
 - *78 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
-### More Projects (648)
+### More Projects (655)
 
-- [jevlike](https://github.com/vinnylarouge/jevlike) —  _(★1370, Python)_
+- [jevlike](https://github.com/vinnylarouge/jevlike) —  _(★1371, Python)_
 - [shapeshift](https://github.com/anishfn/shapeshift) — An input that becomes what you mean: one text box that morphs into the right UI as you type. Powered by TypeSafe Jev, works offline. _(★1073, TypeScript)_
 - [jevbox](https://github.com/extend-hq/jevbox) —  _(★767, TypeScript)_
-- [jev-cookbook](https://github.com/datawhalechina/jev-cookbook) — Jev 模型（TypeSafe AI）官方使用文档的中文翻译 | Unofficial Chinese translation of the official Jev (TypeSafe AI) docs — https://docs.typesafe.ai _(★664, Python)_
+- [jev-cookbook](https://github.com/datawhalechina/jev-cookbook) — Jev 模型（TypeSafe AI）官方使用文档的中文翻译 | Unofficial Chinese translation of the official Jev (TypeSafe AI) docs — https://docs.typesafe.ai _(★665, Python)_
 - [Jev-cu](https://github.com/Sac-Y/Jev-cu) —  _(★633, JavaScript)_
-- [mobile-jev](https://github.com/droidrun/mobile-jev) —  _(★469, JavaScript)_
+- [mobile-jev](https://github.com/droidrun/mobile-jev) —  _(★470, JavaScript)_
 - [jev-experiments](https://github.com/dabit3/jev-experiments) —  _(★413, TypeScript)_
-- [crush-monitor](https://github.com/FerryCorleone/crush-monitor) — Crush 好感监控器：用 Jev 分析微信聊天的情绪、意图和回复表现。本机部署，使用自己的 API Key。 _(★338, TypeScript)_
-- [jev-visual](https://github.com/hr98w/jev-visual) — An educational Jev-like visual inference experiment on Apple Silicon: shared context, direct candidate scoring, and local visual demos. _(★331, Python)_
+- [crush-monitor](https://github.com/FerryCorleone/crush-monitor) — Crush 好感监控器：用 Jev 分析微信聊天的情绪、意图和回复表现。本机部署，使用自己的 API Key。 _(★339, TypeScript)_
+- [jev-visual](https://github.com/hr98w/jev-visual) — An educational Jev-like visual inference experiment on Apple Silicon: shared context, direct candidate scoring, and local visual demos. _(★332, Python)_
 - [Jev-X-Sentiment-Analysis](https://github.com/brainstormity/Jev-X-Sentiment-Analysis) —  _(★232, Python)_
 - [djev-spark](https://github.com/mmastrac/djev-spark) — DiffusionGemma NVFP4 structured decisions on a DGX Spark: container recipe _(★197, HTML)_
 - [jevify](https://github.com/ryana/jevify) — Prompts to jev-ify your projects _(★194, n/a)_
@@ -930,7 +936,7 @@ Jev is TypeSafe's *System One* family: fast, cheap, typed decision models that p
 - [hunch](https://github.com/carldaws/hunch) — Probabilistic control flow for Ruby and Rails - powered by TypeSafe's Jev _(★16, Ruby)_
 - [jevaro](https://github.com/columnar-tech/jevaro) — Jev + Arrow _(★16, Python)_
 - [n8n-nodes-typesafe-ai](https://github.com/typesafe-ai/n8n-nodes-typesafe-ai) —  _(★15, TypeScript)_
-- *598 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
+- *605 more — see the [full browsable catalog](https://therocksss.github.io/awesome-jev/)*
 
 <!-- PROJECTS:END -->
 
